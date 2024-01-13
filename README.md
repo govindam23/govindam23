@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @govindam23
-- 👀 I’m interested in Devops, Cloud Technologies (AWs, Azure, Jenkins, Docker,Ansible,Kubernetes) and also Full Stack Development
+- 👀 I’m interested in Devops, Cloud Technologies (AWs, Azure, Jenkins, Docker,Ansible,Kubernetes), Full Stack Development and Data Analytics.
 - 🌱 I’m currently learning Master in Applied Computing at University of Windsor
 
 <!---
